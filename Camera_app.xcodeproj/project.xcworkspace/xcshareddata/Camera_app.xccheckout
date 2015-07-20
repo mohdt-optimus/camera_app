@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8ED67770-5F1F-40E7-8B3E-EB22F5DE11EA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Camera_app</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C9EB05895B3DABE57916465E6B9BDE5F7D0A9854</key>
+		<string>https://github.com/mohdt-optimus/camera_app.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Camera_app.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C9EB05895B3DABE57916465E6B9BDE5F7D0A9854</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mohdt-optimus/camera_app.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C9EB05895B3DABE57916465E6B9BDE5F7D0A9854</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C9EB05895B3DABE57916465E6B9BDE5F7D0A9854</string>
+			<key>IDESourceControlWCCName</key>
+			<string>camera_app</string>
+		</dict>
+	</array>
+</dict>
+</plist>
